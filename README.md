@@ -1,2 +1,3 @@
-# HITL-Sepsis-OO
-Human-in-the-Loop Sepsis Outcome Optimization
+# Human-in-the-Loop Sepsis Outcome Optimization (HITL-Sepsis-OO)
+
+
